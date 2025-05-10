@@ -1,4 +1,4 @@
-# 🛒 Simple E-Commerce React App
+# 🛒 E-Commerce React App
 
 Esta es una aplicación e-commerce desarrollada con **React**, que permite a los usuarios:
 
