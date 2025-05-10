@@ -21,6 +21,5 @@ La aplicación incluye un carrusel de productos destacados, navegación entre vi
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/braduoc/cart-shopping-react.git
 ```
