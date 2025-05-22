@@ -12,13 +12,13 @@ export const Carousel = () => {
             >
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="/src/assets/img-carrusel-1.jpg" className="d-block w-100" height="400px" alt="Imagen 1" />
+                        <img src="../../assets/img-carrusel-1.jpg" className="d-block w-100" height="400px" alt="Imagen 1" />
                     </div>
                     <div className="carousel-item">
-                        <img src="/src/assets/img-carrusel-2.png" className="d-block w-100" height="400px" alt="Imagen 2" />
+                        <img src="../../assets/img-carrusel-2.png" className="d-block w-100" height="400px" alt="Imagen 2" />
                     </div>
                     <div className="carousel-item">
-                        <img src="/src/assets/img-carrusel-3.png" className="d-block w-100" height="400px" alt="Imagen 3" />
+                        <img src="../../assets/img-carrusel-3.png" className="d-block w-100" height="400px" alt="Imagen 3" />
                     </div>
                 </div>
 

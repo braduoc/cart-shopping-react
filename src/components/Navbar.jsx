@@ -31,7 +31,7 @@ export const Navbar = () => {
             }}>
                 <div>
                     <NavLink to="/" className="navbar-brand" style={{ marginRight: '20px' }} href="#">
-                        <img src="/src/assets/LogoTiendaB.png" width="40px" height="auto" className="d-inline-block align-top" alt="" />
+                        <img src="../../assets/LogoTiendaB.png" width="40px" height="auto" className="d-inline-block align-top" alt="" />
                         Bra Store
                     </NavLink>
                     <NavLink to="/miscompras" className="navbar-brand" href="#">
